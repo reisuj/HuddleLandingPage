@@ -1,0 +1,10 @@
+body {
+  background-color: #503497;
+  background-image: url(images/bg-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: 80% 100%;
+}
+
+html {
+  height: 100%;
+}
